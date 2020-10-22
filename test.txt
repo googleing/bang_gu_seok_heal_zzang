@@ -1,3 +1,0 @@
-테스트용 텍스트파일입니다.
-It is txt file for test.
-Thank you.
